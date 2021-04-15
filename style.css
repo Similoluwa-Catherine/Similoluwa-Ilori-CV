@@ -1,0 +1,101 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+    margin: 1.8em auto;
+    margin-bottom: -4px;
+}
+
+header p {
+    text-align: center;
+    line-height: 4px;
+    font-size: 15px;
+}
+
+h4{
+    font-size: 16px;
+    margin-bottom: -12px;
+    padding-top: .2em;
+}
+
+main p {
+    line-height: 18px;
+    text-align: left;
+    margin-bottom: -15px;
+    font-size: 15px;
+}
+
+.lists {
+    line-height: 20px;
+    font-size: 15px;
+    margin-bottom: -14px;
+}
+
+h5 {
+    font-size: 15px;
+    line-height: .3px;
+    margin-bottom: -4px;
+}
+
+main {
+    padding: 0 3em;
+}
+
+@media screen and (max-width: 1024px){
+    header p {
+        text-align: center;
+        line-height: 12px;
+        font-size: 14px;
+    }
+    h1{
+        font-size: 20px;
+        text-align: center;
+        margin: 1.8em auto;
+        margin-bottom: -4px;
+        padding-top: 2em;
+    }
+    h4{
+        font-size: 14px;
+        margin-bottom: -12px;
+        padding-top: .5em;
+    }
+    
+    main p {
+        line-height: 18px;
+        text-align: left;
+        margin-bottom: -15px;
+        font-size: 14px;
+    }
+    .lists{
+        font-size: 14px;
+    }
+    h5 {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: -4px;
+    }
+    .date{
+        margin-bottom: -21px;
+    }
+    .education{
+        margin-bottom: -15px;
+    }
+    
+    .knowledge {
+        margin-bottom: -21px;
+    }
+    .role{
+        margin-bottom: -12px;
+    }
+
+
+
+
+
+
+
+
+}
